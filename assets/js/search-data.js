@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -405,24 +405,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-distributed-transaction-processing",
+          title: 'Distributed transaction processing',
+          description: "A simple banking application that stores client balances across sharded clusters and allows both intra-shard and cross-shard transactions through the implementation of two-phase commit and Paxos protocols.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-practical-byzantine-fault-tolerance",
+          title: 'Practical Byzantine Fault Tolerance',
+          description: "PBFT consensus protocol implementation for a simple banking application that lets clients send and receive money despite the presence of malicious servers in the banking cluster.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-eguard",
+          title: 'eGuard',
+          description: "An eBPF-based tool for Linux to restrict certain actions by the user like creating files inside a given directory or executing a particular program.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-risc-v-processor",
+          title: 'RISC-V processor',
+          description: "A 5-stage pipelined RISC-V processor implemented in SystemVerilog supporting RV64IM instruction set",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
