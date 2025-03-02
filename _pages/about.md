@@ -17,13 +17,13 @@ announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
+  
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a graduate student in the department of Computer Science at `Stony Brook University`, where I am specializing in computer systems. My interests span across the entire computing stack, including **computer architecutre**, **operating systems**, **database systems**, **distributed systems**, **computer networking**, **compilers**, and **security**. I am an aspiring systems guru, and hence I am expanding my knowledge in the above areas by taking relevant courses that comprise a mix of theoretical and hands-on training in addition to reading technical papers and blogs. 
+I am a graduate student in the department of Computer Science at `Stony Brook University`, where I am specializing in computer systems. My interests span across the entire computing stack, including **computer architecutre**, **operating systems**, **database systems**, **distributed systems**, **computer networking**, **compilers**, and **security**. Hence I am expanding my knowledge in the above areas by taking relevant courses that comprise a mix of theoretical and hands-on training in addition to reading technical papers and blogs. 
 
 I also have `4 years` of industry experience as a software engineer, having worked at both a tech giant, `Cisco`, and a FinTech startup, `Clear`. At Cisco, I was responsible for architecting, implementing, and monitoring large-scale data processing pipelines processing terabytes of data per day. At Clear, I worked as a full-stack developer to improve the overall user experience of the company's tax filing platform.
 
