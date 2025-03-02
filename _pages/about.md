@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
   
@@ -27,6 +27,6 @@ I am a graduate student in the department of Computer Science at `Stony Brook Un
 
 I also have `4 years` of industry experience as a software engineer, having worked at both a tech giant, `Cisco`, and a FinTech startup, `Clear`. At Cisco, I was responsible for architecting, implementing, and monitoring large-scale data processing pipelines processing terabytes of data per day. At Clear, I worked as a full-stack developer to improve the overall user experience of the company's tax filing platform.
 
-This site serves as a collection of my work, including project documentation, summaries of papers I have read, blog posts, my CV, and contact information. I plan to keep it as updated as possible.
+This site serves as a collection of my work, including projects, summaries of papers I have read, technical articles, my CV, and contact information. I plan to keep it as updated as possible.
 
 Outside of classes, you'll often find me at the gym, trying out new recipes, or unwinding with a good Netflix series.
