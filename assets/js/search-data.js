@@ -394,16 +394,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-master-s-journey-at-the-dept-of-computer-science-at-stony-brook-university-yayy",
+          title: 'Started my Master’s journey at the Dept. of Computer Science at Stony Brook...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-filesystems-and-storage-lab-fsl-at-sbu-will-be-working-under-the-supervision-of-prof-erez-zadok-to-study-and-implement-information-theoretically-secure-schemes-to-verify-the-integrity-of-data-stored-in-archival-systems-systems-storing-data-for-at-least-the-lifetime-of-a-human",
+          title: 'Joined Filesystems and Storage Lab (FSL) at SBU. Will be working under the...',
           description: "",
           section: "News",},{id: "projects-distributed-transaction-processing",
           title: 'Distributed transaction processing',
