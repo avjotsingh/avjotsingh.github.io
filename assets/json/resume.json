@@ -29,6 +29,14 @@
   },
   "work": [
     {
+      "name": "Filesystems and Storage Lab (FSL)",
+      "position": "Research Assistant",
+      "url": "https://www.fsl.cs.sunysb.edu/all-students.html",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "summary": "Studying various information-theoretically secure schemes that are secure against computationally unbounded adversaries, to verify the integrity of data stored on archival systems (systems storing data for atleast the average lifetime of a human)"
+    },
+    {
       "name": "Cisco",
       "position": "Software Engineer III (Backend)",
       "url": "https://cisco.com",
