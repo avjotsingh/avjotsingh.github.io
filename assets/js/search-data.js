@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-readings",
+          title: "Readings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
         },{id: "nav-news",
           title: "News",
           description: "",
@@ -382,11 +389,21 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
+    },{id: "books-distributed-systems-for-practitioners",
+          title: 'Distributed Systems For Practitioners',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/distributed_sys/";
+            },},{id: "books-linux-kernel-development",
+          title: 'Linux Kernel Development',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/linux_kernel_dev/";
+            },},{id: "books-operating-systems-three-easy-pieces",
+          title: 'Operating Systems Three Easy Pieces',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ostep/";
             },},{id: "news-started-my-master-s-journey-at-the-dept-of-computer-science-at-stony-brook-university-yayy",
           title: 'Started my Master’s journey at the Dept. of Computer Science at Stony Brook...',
           description: "",
