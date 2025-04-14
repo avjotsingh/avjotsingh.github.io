@@ -7,7 +7,7 @@ cover: assets/img/book_covers/linux_kernel_dev.jpg
 # isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: linux operating-systems kernel
 # tags: top-100
-buy_link: https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
+buy_link: https://www.amazon.com/Rust-Programming-Language-Steve-Klabnik/dp/1593278284
 started: 2025-01
 # finished: 2025-02
 released: 2010
