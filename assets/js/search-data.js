@@ -404,6 +404,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ostep/";
+            },},{id: "books-the-rust-programming-language",
+          title: 'The Rust Programming Language',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/rust/";
             },},{id: "news-started-my-master-s-journey-at-the-dept-of-computer-science-at-stony-brook-university-yayy",
           title: 'Started my Master’s journey at the Dept. of Computer Science at Stony Brook...',
           description: "",
