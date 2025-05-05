@@ -389,7 +389,12 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-distributed-systems-for-practitioners",
+    },{id: "books-crafting-interpreters",
+          title: 'Crafting Interpreters',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crafting-interpreters/";
+            },},{id: "books-distributed-systems-for-practitioners",
           title: 'Distributed Systems For Practitioners',
           description: "",
           section: "Books",handler: () => {
