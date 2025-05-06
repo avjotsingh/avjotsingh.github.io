@@ -394,6 +394,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/crafting-interpreters/";
+            },},{id: "books-database-internals",
+          title: 'Database Internals',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/database-internals/";
+            },},{id: "books-designing-data-intensive-applications",
+          title: 'Designing Data Intensive Applications',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ddia/";
             },},{id: "books-distributed-systems-for-practitioners",
           title: 'Distributed Systems For Practitioners',
           description: "",
@@ -404,6 +414,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/linux_kernel_dev/";
+            },},{id: "books-the-elements-of-computing-systems",
+          title: 'The Elements of Computing Systems',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/nand-to-tetris/";
             },},{id: "books-operating-systems-three-easy-pieces",
           title: 'Operating Systems Three Easy Pieces',
           description: "",
@@ -414,6 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rust/";
+            },},{id: "books-advanced-programming-in-the-unix-environment",
+          title: 'Advanced Programming in the UNIX Environment',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/unix-programming/";
             },},{id: "news-started-my-master-s-journey-at-the-dept-of-computer-science-at-stony-brook-university-yayy",
           title: 'Started my Master’s journey at the Dept. of Computer Science at Stony Brook...',
           description: "",
